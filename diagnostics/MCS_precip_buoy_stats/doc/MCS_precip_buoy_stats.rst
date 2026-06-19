@@ -13,7 +13,7 @@
 
 - **2-D Joint Histogram and Conditionally-Averaged Precipitation**
 
-   .. image:: ./BLprecip_capesubsat_merged_2005-2014.png
+   .. image:: ./BLprecip_capesubsat_merged_2005-2014.ocean.png
       :width: 850px
       :height: 250px
       :alt: 2-D Joint Histogram of Buoyancy and Precipitation
