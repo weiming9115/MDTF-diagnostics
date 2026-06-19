@@ -104,5 +104,7 @@ To identify connected cloud objects, we adopt parameters described in PyFLEXTRKR
 ---
 
 **References** 
+
 - Ahmed, F., & Neelin, J. D. (2021). A process-oriented diagnostic to assess precipitation-thermodynamic relations and application to CMIP6 models. *Geophysical Research Letters*, 48(14).
+
 - Tsai, W.-M., Ahmed, F., Neelin, J. D., Feng, Z., & Leung, L. R. (2026). Precipitation-buoyancy relationships in the life cycle of tropical mesoscale convective systems. Geophysical Research Letters, 53, e2025GL121408. https://doi.org/10.1029/2025GL121408
